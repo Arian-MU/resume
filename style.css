@@ -1,4 +1,20 @@
 * {
     font-family: Helvetica, sans-serif;
-    background-color: #f1f1f1;
+    background-color: #e9f2f4;
 }
+
+body {
+    padding: 40px;
+    color: #696565
+}
+
+h1 {
+    color: #088395;
+    font-size: 4rem;
+    margin-bottom: -20px;
+}
+
+h3 {
+    color: #088395;
+}
+
